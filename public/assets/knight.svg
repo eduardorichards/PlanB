@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <!-- Helmet -->
+    <path d="M12 8h8v6h-8z" fill="#808080"/>
+    <!-- Face guard -->
+    <path d="M14 10h4v2h-4z" fill="#404040"/>
+    <!-- Body armor -->
+    <path d="M10 14h12v10h-12z" fill="#a0a0a0"/>
+    <!-- Belt -->
+    <path d="M10 20h12v1h-12z" fill="#404040"/>
+    <!-- Legs -->
+    <path d="M12 24h3v6h-3z" fill="#808080"/>
+    <path d="M17 24h3v6h-3z" fill="#808080"/>
+</svg> 
