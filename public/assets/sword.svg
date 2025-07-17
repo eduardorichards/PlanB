@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <!-- Blade -->
+    <path d="M8 4L24 4L20 20L12 20L8 4Z" fill="#C0C0C0" stroke="#808080" stroke-width="1"/>
+    <!-- Handle -->
+    <rect x="14" y="20" width="4" height="8" fill="#8B4513" stroke="#4A2400" stroke-width="1"/>
+    <!-- Guard -->
+    <rect x="10" y="19" width="12" height="2" fill="#FFD700" stroke="#DAA520" stroke-width="1"/>
+</svg> 

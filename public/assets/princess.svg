@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <!-- Crown -->
+    <path d="M12 4 L20 4 L20 8 L12 8 Z" fill="#FFD700"/>
+    <path d="M11 6 L21 6 L21 7 L11 7 Z" fill="#FFA500"/>
+    <!-- Hair -->
+    <path d="M10 8 L22 8 L22 14 L10 14 Z" fill="#FFD700"/>
+    <!-- Face -->
+    <path d="M12 10 L20 10 L20 14 L12 14 Z" fill="#FFC0CB"/>
+    <!-- Eyes -->
+    <path d="M13 11 L15 11 L15 12 L13 12 Z" fill="#000000"/>
+    <path d="M17 11 L19 11 L19 12 L17 12 Z" fill="#000000"/>
+    <!-- Dress -->
+    <path d="M10 14 L22 14 L24 28 L8 28 Z" fill="#FF69B4"/>
+    <!-- Belt -->
+    <path d="M10 18 L22 18 L22 20 L10 20 Z" fill="#FFD700"/>
+</svg> 

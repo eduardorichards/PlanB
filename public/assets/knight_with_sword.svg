@@ -14,4 +14,8 @@
     <!-- Legs -->
     <path d="M12 24h3v6h-3z" fill="#808080"/>
     <path d="M17 24h3v6h-3z" fill="#808080"/>
+    <!-- Sword -->
+    <path d="M23 14l1-8h1l1 8z" fill="#C0C0C0"/> <!-- Blade -->
+    <path d="M22 14h4v2h-4z" fill="#FFD700"/> <!-- Handle cross guard -->
+    <path d="M23 16h2v3h-2z" fill="#8B4513"/> <!-- Handle -->
 </svg> 
